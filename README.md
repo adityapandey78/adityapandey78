@@ -15,6 +15,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-pandey-1a96b0213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-pandey-1a96b0213/" height="30" width="40" /></a>
 <a href="https://twitter.com/adityapandey78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityapandey78" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adityapandey78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityapandey78" height="30" width="40" /></a>
 <a href="https://discord.gg/adityapandey78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adityapandey78" height="30" width="40" /></a>
@@ -26,6 +27,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityapandey78&show_icons=true&locale=en" alt="adityapandey78" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityapandey78&" alt="adityapandey78" /></p>
+
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityapandey78&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
