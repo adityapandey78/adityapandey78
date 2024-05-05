@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapandey78&label=Profile%20views&color=0e75b6&style=flat" alt="adityapandey78" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityapandey78" alt="adityapandey78" /></a> </p>
+
 
 <p align="center"> <a href="https://twitter.com/adityapandey78" target="blank"><img src="https://img.shields.io/twitter/follow/adityapandey78?logo=twitter&style=for-the-badge" alt="adityapandey78" /></a> </p>
 
