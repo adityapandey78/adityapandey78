@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on any projects in Front-End Projects
 - 📫 You can reach out to me at 🔗https://linktr.ee/adityapandey78
 
-
+<div align="center">
+    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 <!---
 adityapandey78/adityapandey78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
