@@ -99,6 +99,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adityapandey78&style=flat-square" alt="Profile Views" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=adityapandey78&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityapandey78&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" width="30%" height="170px" />
 </p>
+
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
