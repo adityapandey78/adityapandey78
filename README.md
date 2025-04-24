@@ -89,20 +89,26 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-pandey-1a96b0213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-pandey-1a96b0213/" height="30" width="40" /></a>
-<a href="https://twitter.com/adityapandey78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityapandey78" height="30" width="40" /></a>
-<a href="https://discord.gg/adityapandey78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adityapandey78" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/aditya-pandey-1a96b0213/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/adityapandey78" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/adityapandey78" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
 </div>  
-  
 
-<br/>  
+<br/>
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=adityapandey78&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=adityapandey78&&style=flat-square" align="center" />
 </div>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adityapandey78&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityapandey78&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  
 
-<br/>  
-
-----
+<br/>
