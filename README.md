@@ -1,7 +1,7 @@
 <div align="center">
   
 ## Hii, I am Aditya Pandey  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE3amg0czNzNm9jM3J1MjN5bnkzbG9mc25lOHEwemptajFqYjJjdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif" width="30%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW94ZnF4cHV4dnYzbHdmMHNnNTBieWJ0NTlla2l4a2UxcTFyeXFldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2FayYXU90QS9MmAIo/giphy.gif" width="30%" />
 
 </div>
 
