@@ -37,9 +37,9 @@
       <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
     </td>
     <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
-      <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
-      <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="40" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+    <img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="gitlab logo"  />
+    <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
     </td>
   </tr>
   <tr>
@@ -48,22 +48,22 @@
       <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
     </td>
     <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
-      <img src="https://profilinator.rishav.dev/skills-assets/astro.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
-      <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://cdn.simpleicons.org/astro/FF5D01" height="50" alt="astro logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo"  height="50"  />
+      <img src="https://skillicons.dev/icons?i=express"  height="50" alt="express logo"  />
     </td>
     <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
-      <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
-      <img src="https://profilinator.rishav.dev/skills-assets/github-original.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+   <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
+   <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="50" alt="appwrite logo"  />
     </td>
   </tr>
   <tr>
     <td></td>
     <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
-      <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
-      <img src="https://profilinator.rishav.dev/skills-assets/prisma.png" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" height="50" />
+      <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo" height="50"  />
     </td>
     <td></td>
   </tr>
@@ -83,14 +83,14 @@
 ## 📱 Connect with me  
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-pandey-1a96b0213/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/adityapandey78" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://discord.gg/adityapandey78" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" alt="Discord" />
-  </a>
+  <a href="mailto:adityapandey.2402@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+</a>
 </p>
 
 ---
