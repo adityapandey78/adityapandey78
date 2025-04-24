@@ -1,7 +1,7 @@
 <div align="center">
   
 ## Hii, I am Aditya Pandey  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE3amg0czNzNm9jM3J1MjN5bnkzbG9mc25lOHEwemptajFqYjJjdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif" width="30%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE3amg0czNzNm9jM3J1MjN5bnkzbG9mc25lOHEwemptajFqYjJjdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif" width="50%" />
 
 </div>
 
@@ -19,74 +19,60 @@
 
 ## 🛠️ My Skill Set
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <th>Languages</th>
-    <th>Tech/Frameworks</th>
-    <th>Tools</th>
+    <th width="33%">Languages</th>
+    <th width="33%">Tech/Frameworks</th>
+    <th width="33%">Tools</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
     </td>
     <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
     </td>
     <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" height="50" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" />
-    </td>
-    <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" />
-    </td>
-    <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="40" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
     </td>
     <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/astro.svg" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://profilinator.rishav.dev/skills-assets/astro.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
     </td>
     <td align="center">
-      <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/github-original.svg" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://profilinator.rishav.dev/skills-assets/github-original.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
     </td>
   </tr>
   <tr>
     <td></td>
     <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://profilinator.rishav.dev/skills-assets/prisma.png" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
     </td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/prisma.png" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" height="50" />
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/mui.png" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/chakraui.png" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://profilinator.rishav.dev/skills-assets/mui.png" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://profilinator.rishav.dev/skills-assets/chakraui.png" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
     </td>
     <td></td>
   </tr>
@@ -94,7 +80,7 @@
 
 ---
 
-## 📡 Connect with me  
+## 📱 Connect with me  
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-pandey-1a96b0213/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
@@ -115,3 +101,4 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=adityapandey78&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 </p>
+
