@@ -1,10 +1,9 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch: # allows manual triggering
+  workflow_dispatch:
   schedule:
-    # runs at 5:02 PM IST (11:32 AM UTC)
-    - cron: "32 11 * * *"
+    - cron: "32 11 * * *"  # 5:02 PM IST
 
 jobs:
   update-readme:
@@ -21,7 +20,7 @@ jobs:
           ### content
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: ->>
+          BLOCKS: "->>"  # Simple arrows (try without quotes if issues persist)
           CODE_LANG: rust
           TIME_RANGE: last_7_days
           LANG_COUNT: 7
