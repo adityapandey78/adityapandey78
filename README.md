@@ -10,7 +10,7 @@
 ### About Myself 👋  
 
 - **👨‍💻 Builder by Heart, Coder by Training** — Passionate about creating meaningful products with clean, scalable code and sharp product thinking.  
-- **🚀 Startup Journey from Semester 2** — Hands-on experience across tech, marketing, partnerships, product strategy, and community.  
+- **🚀 A generalist** — Hands-on experience across tech, marketing, partnerships, product strategy, and community.  
 - **🧠 User-First Approach** — Strong belief in solving real problems through thoughtful design, great UX, and purpose-driven development.  
 - **💻 Tech Stack** — Proficient in React, JavaScript, C++, and frontend ecosystems. Always learning, always building.  
 - **🌐 Community-Driven** — Active leader in developer communities, event organizer, and team collaborator who loves turning ideas into action.  
