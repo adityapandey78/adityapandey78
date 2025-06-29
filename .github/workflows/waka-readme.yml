@@ -12,6 +12,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          # Secrets
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
@@ -37,7 +38,8 @@ jobs:
           SHOW_SHORT_INFO: true
           SHOW_LINES_OF_CODE: true
           SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
+          STOP_AT_OTHER: false  # Set to false for now to debug
 
-          # Languages to ignore
-          IGNORED_LANGUAGES: YAML JSON TOML
+          # Ignored languages
+          # Comment this out while debugging
+          # IGNORED_LANGUAGES: YAML JSON TOML
