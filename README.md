@@ -111,7 +111,7 @@ From: 22 June 2025 - To: 29 June 2025
 
 Total Time: 2 hrs 57 mins
 
-Other      32 hrs 37 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.69 %
+Other      32 hrs 37 mins  ███████████████████████░░   91.69 %
 ```
 
 <!--END_SECTION:waka-->
