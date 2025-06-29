@@ -12,20 +12,29 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          # Meta
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          ### meta
           API_BASE_URL: https://wakatime.com/api
           REPOSITORY: adityapandey78/adityapandey78
-          ### content
+
+          # Content display options
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: "->>"  # Simple arrows (try without quotes if issues persist)
+          BLOCKS: ->>              # Remove quotes unless needed (try both if you have issues)
           CODE_LANG: rust
           TIME_RANGE: last_7_days
           LANG_COUNT: 7
+
+          # Display toggles
           SHOW_TIME: true
           SHOW_TOTAL: true
+          SHOW_PROJECTS: true
+          SHOW_EDITORS: true
+          SHOW_SHORT_INFO: true
+          SHOW_LINES_OF_CODE: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
+
+          # Languages to ignore
           IGNORED_LANGUAGES: YAML JSON TOML
