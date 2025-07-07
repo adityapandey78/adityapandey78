@@ -27,52 +27,52 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
-      <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
-      <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" width="40" height="40" />
+      <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="40" height="40" />
+      <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" height="40" />
     </td>
     <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
-      <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
-      <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="40" height="40" />
+      <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" width="40" height="40" />
+      <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="TailwindCSS" width="40" height="40" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-    <img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="gitlab logo"  />
-    <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
-      <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="40" height="40" />
+      <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="40" height="40" />
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/astro/FF5D01" height="50" alt="astro logo"  />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo"  height="50"  />
-      <img src="https://skillicons.dev/icons?i=express"  height="50" alt="express logo"  />
+      <img src="https://cdn.simpleicons.org/astro/FF5D01" alt="Astro" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-   <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
-   <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="50" alt="appwrite logo"  />
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40" />
+      <img src="https://cdn.simpleicons.org/appwrite/F02E65" alt="Appwrite" width="40" height="40" />
     </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="center">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" height="50" />
-      <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo" height="50"  />
-    </td>
-    <td></td>
   </tr>
   <tr>
     <td></td>
     <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
-      <img src="https://profilinator.rishav.dev/skills-assets/mui.png" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
-      <img src="https://profilinator.rishav.dev/skills-assets/chakraui.png" height="50" style="background-color:rgba(255,255,255,0.8); padding:10px; border-radius:12px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" />
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center">
+      <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" width="40" height="40" />
+      <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material-UI" width="40" height="40" />
+      <img src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" width="40" height="40" />
     </td>
     <td></td>
   </tr>
@@ -121,4 +121,5 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
 
