@@ -107,17 +107,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 13 July 2025 - To: 20 July 2025
+From: 14 July 2025 - To: 21 July 2025
 
-Total Time: 1 hr 59 mins
+Total Time: 2 hrs 9 mins
 
-Other        26 hrs 39 mins  ███████████████████████▒░   93.04 %
-Markdown     1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-HTML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-JavaScript   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-TypeScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Other              25 hrs 48 mins  ███████████████████████░░   92.28 %
+Markdown           1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+HTML               20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+JavaScript         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+JSON               5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Jupyter Notebook   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+TypeScript         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
