@@ -107,16 +107,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 July 2025 - To: 26 July 2025
+From: 20 July 2025 - To: 27 July 2025
 
-Total Time: 3 hrs 18 mins
+Total Time: 3 hrs 47 mins
 
-Other              36 hrs 40 mins  ███████████████████████░░   91.73 %
-Markdown           2 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-C++                43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Jupyter Notebook   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Other              34 hrs 39 mins  ██████████████████████▓░░   90.14 %
+Markdown           2 hrs 53 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+C++                48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Jupyter Notebook   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+TypeScript         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 JSON               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-CSS                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
