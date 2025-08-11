@@ -107,14 +107,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 August 2025 - To: 09 August 2025
+From: 03 August 2025 - To: 10 August 2025
 
 Total Time: 26 mins
 
-Other        28 hrs 25 mins  ████████████████████████▓   98.49 %
-Markdown     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-C++          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Other        27 hrs 22 mins  ████████████████████████▓   98.42 %
+Markdown     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+C++          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
