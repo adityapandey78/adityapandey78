@@ -63,16 +63,16 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" />
-      <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" />
+<!--       <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" /> -->
     </td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" width="40" height="40" />
+<!--       <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" width="40" height="40" />
       <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material-UI" width="40" height="40" />
-      <img src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" width="40" height="40" />
+      <img src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" width="40" height="40" /> -->
     </td>
     <td></td>
   </tr>
