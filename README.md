@@ -107,17 +107,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 11 August 2025 - To: 18 August 2025
+From: 12 August 2025 - To: 19 August 2025
 
-Total Time: 4 hrs 41 mins
+Total Time: 5 hrs 48 mins
 
-Other         29 hrs 45 mins  █████████████████████▓░░░   86.37 %
-JavaScript    1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-Markdown      1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-C             1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Other         28 hrs 52 mins  ████████████████████▓░░░░   83.25 %
+JavaScript    2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Markdown      1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+C             1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Bash          13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 C++           7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-HTML          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Image (svg)   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+HTML          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
