@@ -107,17 +107,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 August 2025 - To: 22 August 2025
+From: 16 August 2025 - To: 23 August 2025
 
-Total Time: 7 hrs 16 mins
+Total Time: 6 hrs 17 mins
 
-Other         24 hrs 55 mins  ███████████████████▒░░░░░   77.39 %
-JavaScript    3 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
-Markdown      1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-C             1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-HTML          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-EJS           15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Bash          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Other         23 hrs 58 mins  ███████████████████▓░░░░░   79.22 %
+JavaScript    2 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+C             1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Markdown      1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+HTML          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+EJS           15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Bash          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
