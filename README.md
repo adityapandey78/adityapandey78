@@ -63,7 +63,7 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" />
-<!--       <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" /> -->
+      <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" />
     </td>
     <td></td>
   </tr>
