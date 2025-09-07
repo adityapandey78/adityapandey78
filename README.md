@@ -107,17 +107,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 August 2025 - To: 05 September 2025
+From: 30 August 2025 - To: 06 September 2025
 
-Total Time: 6 hrs 57 mins
+Total Time: 9 hrs 17 mins
 
-Other         21 hrs 4 mins   ██████████████████▓░░░░░░   75.20 %
-JavaScript    5 hrs 25 mins   █████░░░░░░░░░░░░░░░░░░░░   19.38 %
-JSON          27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Bash          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Markdown      23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Prisma        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-SQL           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Other        20 hrs 31 mins  █████████████████▒░░░░░░░   68.85 %
+JavaScript   7 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   23.73 %
+EJS          33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Markdown     31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+JSON         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Bash         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Prisma       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
