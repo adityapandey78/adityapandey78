@@ -107,17 +107,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 September 2025 - To: 17 September 2025
+From: 11 September 2025 - To: 18 September 2025
 
-Total Time: 7 hrs 2 mins
+Total Time: 4 hrs 52 mins
 
-Other        22 hrs 10 mins  ███████████████████░░░░░░   75.90 %
-JavaScript   3 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
-TypeScript   2 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Markdown     44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-EJS          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-C++          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Other        20 hrs 43 mins  ████████████████████▒░░░░   80.97 %
+TypeScript   2 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+JavaScript   1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+Markdown     37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+EJS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
