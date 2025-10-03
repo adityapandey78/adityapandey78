@@ -107,15 +107,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 September 2025 - To: 01 October 2025
+From: 25 September 2025 - To: 02 October 2025
 
-Total Time: 10 hrs 18 mins
+Total Time: 8 hrs 56 mins
 
-Other        25 hrs 46 mins  ██████████████████░░░░░░░   71.43 %
-JavaScript   5 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
-TypeScript   2 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-Bash         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-EJS          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Other        27 hrs 15 mins  ██████████████████▓░░░░░░   75.30 %
+JavaScript   3 hrs 50 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
+TypeScript   2 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+Bash         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+EJS          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 Markdown     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
