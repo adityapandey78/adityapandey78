@@ -107,13 +107,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 November 2025 - To: 17 November 2025
+From: 11 November 2025 - To: 18 November 2025
 
-Total Time: 1 hr 12 mins
+Total Time: 32 mins
 
-Other        62 hrs 43 mins  ████████████████████████▓   98.10 %
-TSX          40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-JavaScript   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Other        66 hrs 5 mins   ████████████████████████▓   99.19 %
+JavaScript   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 MDX          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Dotenv       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
