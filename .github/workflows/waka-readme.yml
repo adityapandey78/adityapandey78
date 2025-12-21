@@ -1,45 +1,45 @@
-name: Waka Readme
+# name: Waka Readme
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "32 11 * * *"  # 5:02 PM IST
+# on:
+#   workflow_dispatch:
+#   schedule:
+#     - cron: "32 11 * * *"  # 5:02 PM IST
 
-jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          # Secrets
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+# jobs:
+#   update-readme:
+#     name: WakaReadme DevMetrics
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: athul/waka-readme@master
+#         with:
+#           # Secrets
+#           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
-          # Repository info
-          REPOSITORY: adityapandey78/adityapandey78
+#           # Repository info
+#           REPOSITORY: adityapandey78/adityapandey78
 
-          # WakaTime API
-          API_BASE_URL: https://wakatime.com/api
+#           # WakaTime API
+#           API_BASE_URL: https://wakatime.com/api
 
-          # Display config
-          SHOW_TITLE: true
-          SECTION_NAME: waka
-          BLOCKS: ░▒▓█
-          CODE_LANG: rust
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 7
+#           # Display config
+#           SHOW_TITLE: true
+#           SECTION_NAME: waka
+#           BLOCKS: ░▒▓█
+#           CODE_LANG: rust
+#           TIME_RANGE: last_7_days
+#           LANG_COUNT: 7
 
-          # Display toggles
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_PROJECTS: true
-          SHOW_EDITORS: true
-          SHOW_SHORT_INFO: true
-          SHOW_LINES_OF_CODE: true
-          SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: false  # Set to false for now to debug
+#           # Display toggles
+#           SHOW_TIME: true
+#           SHOW_TOTAL: true
+#           SHOW_PROJECTS: true
+#           SHOW_EDITORS: true
+#           SHOW_SHORT_INFO: true
+#           SHOW_LINES_OF_CODE: true
+#           SHOW_MASKED_TIME: false
+#           STOP_AT_OTHER: false  # Set to false for now to debug
 
-          # Ignored languages
-          # Comment this out while debugging
-          # IGNORED_LANGUAGES: YAML JSON TOML
+#           # Ignored languages
+#           # Comment this out while debugging
+#           # IGNORED_LANGUAGES: YAML JSON TOML
